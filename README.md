@@ -1,6 +1,6 @@
-# Copier Template - Jinja
+# Jinja Copier Template
 
-> Template project that uses Copier - provided by AppSeed.
+Template project - provided by AppSeed.
 
 <br />
 
@@ -42,7 +42,8 @@ $ pip install copier
 ```bash
 $ # Generate the template - Syntax
 $ # copier <source_project> <destination_project>
-$ copier https://github.com/app-generator/copier-jinja.git copier-project
+$
+$ copier https://github.com/app-generator/copier-jinja.git <PROJECT_NAME>
 ```
 
 During the process the user should provide:
@@ -205,4 +206,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[[ project_name ]] - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+Jinja Copier Template - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
