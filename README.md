@@ -1,11 +1,12 @@
-# [Jinja Template](https://appseed.us/jinja-template)
+# Copier Template - Jinja/Flask
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple starters coded in [Flask](https://palletsprojects.com/p/flask/). 
+> Template [boilerplate code](https://appseed.us/boilerplate-code) provided by [AppSeed](https://appseed.us).
 
 <br />
 
 > Features:
 
+- Generator: [Copier](https://github.com/copier-org/copier/)
 - UI Kit: **Pixel Lite** (Free Version) by **Themesberg**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
