@@ -1,0 +1,15 @@
+_skip_if_exists:
+  - pyproject.toml
+  - pytest.ini
+  - .vscode/settings.json
+
+# Questions
+project_name:
+  type: str
+  help:
+    The name of the project - Used in master pages (title property) 
+
+project_owner:
+  type: str
+  help:
+    The owner of the project - used in the README file

@@ -22,7 +22,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- Primary Meta Tags -->
 <title>
-    Copier Template Jinja - {% block title %}{% endblock %} | AppSeed
+    [[ project_name ]] - {% block title %}{% endblock %} | AppSeed
 </title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -67,8 +67,6 @@
 
 <body>
 
-    {% include 'includes/navigation.html' %}
-
     <main>
 
         {% include 'includes/preloader.html' %}
@@ -76,8 +74,6 @@
         {% block content %}{% endblock content %}
 
     </main>
-
-    {% include 'includes/footer.html' %}
 
     {% include 'includes/scripts.html' %}
 
