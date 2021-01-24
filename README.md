@@ -48,7 +48,7 @@ $ copier https://github.com/app-generator/copier-jinja.git <PROJECT_NAME>
 
 During the process the user should provide:
 
-- Project Name: used in the master pages(title element)
+- Project Name: used in the master pages (title element)
 - Project Author: used in the `index.html`
 
 <br />
